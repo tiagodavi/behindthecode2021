@@ -4,3 +4,5 @@
 
 [challenge 1](desafio1/README.md)
 [challenge 2](desafio2/README.md)
+[challenge 3](desafio3/README.md)
+[challenge 5](desafio5/README.md)
