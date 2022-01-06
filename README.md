@@ -3,3 +3,4 @@
 ## Solutions that ensured me a place among the top 100 best developers of Latin America.
 
 [challenge 1](desafio1/README.md)
+[challenge 2](desafio2/README.md)
